@@ -1,1 +1,1 @@
-# LF-website.1
+https://lfacademy-rgb.github.io/LF-website.1/
